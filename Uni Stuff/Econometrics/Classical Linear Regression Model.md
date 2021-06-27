@@ -8,5 +8,5 @@ Few other terms to note:
 
 ### **Significance of the Stochastic Disturbance term:**
    1. *Vagueness of theory:* may be used as a substitute for all the excluded or omitted variables from the model.
-   2. 
+   2. *Unavailability of data:* 
 		  
