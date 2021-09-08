@@ -1,5 +1,8 @@
-# Questions
-[[2021-09-07]]
+
+# Stochastic Processes 
+#### Safalya Pal - A90555919003
+
+#### [[07-09-2021]]
 
 ### Q1. 
 Consider the experiment in which we record $M(t)$, the number of active calls at a telephone switch at time $t$, for each second over an interval of 15 minutes. Determine the state space and the index set of the stochastic process $\left\{M(t):t\geq 0\right\}$.
