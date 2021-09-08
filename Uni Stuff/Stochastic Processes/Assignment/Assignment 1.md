@@ -8,7 +8,7 @@
 Consider the experiment in which we record $M(t)$, the number of active calls at a telephone switch at time $t$, for each second over an interval of 15 minutes. Determine the state space and the index set of the stochastic process $\left\{M(t):t\geq 0\right\}$.
 
 #### Answer
-State space $S_X  =\left\{0, 1, 2, ..., 900\right\}$
+State space $S_X  =\left\{0, 1, 2, ...\right\}$
 Index set $T_X = \left\{0, 1, 2, ...\right\}$
 
 ### Q2. 
