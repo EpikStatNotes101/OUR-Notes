@@ -7,8 +7,10 @@ Flow of problem solving in computer science
 
 A collection of 
 
-> **Note** Representation of an ADT must contain range of data and list of operations allowed on the data 
+> **Note 1** Representation of an ADT must contain range of data and list of operations allowed on the data 
+
+> **Note 2** You can give a brief explaination of the function before defining it
 
 ```
-<Return type> <Function name>(<arguments>)
+ <Return type> <Function name>(<arguments>) ::= <Function definition>
 ```
