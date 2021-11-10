@@ -39,3 +39,4 @@
 ### Variable View
 ![[Uni Stuff/SPSS/Pasted image 20211110172936.png|500]]
 ### Data View
+![[Uni Stuff/SPSS/Pasted image 20211110173734.png|500]]
