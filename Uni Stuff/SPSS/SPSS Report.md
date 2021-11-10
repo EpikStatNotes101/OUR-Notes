@@ -1,6 +1,6 @@
 [8/27/2021]
 # Variable View
-![[Uni Stuff/SPSS/Pasted image 20211107163854.png|500]]
+![[Uni Stuff/SPSS/Pasted image 20211107163854.png|600]]
 
 `Name` - Name of the variable.
 
@@ -37,6 +37,6 @@
 
 ## Classwork 
 ### Variable View
-![[Uni Stuff/SPSS/Pasted image 20211110172936.png|500]]
+![[Uni Stuff/SPSS/Pasted image 20211110172936.png|600]]
 ### Data View
-![[Uni Stuff/SPSS/Pasted image 20211110173734.png|500]]
+![[Uni Stuff/SPSS/Pasted image 20211110173734.png|600]]
