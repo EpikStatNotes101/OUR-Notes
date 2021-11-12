@@ -72,10 +72,32 @@ To build a graph, `Chart Builder` is used which is available under `Graphs` $\lo
 
 `Element Properties` - This window allows the variables to be modified in the graph. 
 
+#### Scatterplot Alternate Method 
+`Graphs` $\longrightarrow$ `Legacy Dialogs` $\longrightarrow$ `Scatter/Dot...`
+
 ## Classwork
 ### Data View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112132604.png|500]]
 ### Output View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112134634.png|500]]
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112135759.png|500]]
-![[Pasted image 20211112140310.png]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112140310.png|500]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112140359.png|500]]
+
+
+
+### [3/9/2021]
+# Outlier Detection with Boxplots
+The `Boxplot` option is available in `Chart Builder` under `Gallery`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112141803.png|500]]
+
+#### Alternate Method 
+`Graphs` $\longrightarrow$ `Legacy Dialogs` $\longrightarrow$ `Boxplot`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112141915.png|300]]
+*Legacy Boxplot window*
+
+## Classwork 
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142144.png|500]]
