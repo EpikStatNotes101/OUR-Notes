@@ -1,4 +1,4 @@
-[8/27/2021]
+### [27/8/2021]
 # Variable View
 ![[Uni Stuff/SPSS/Pasted image 20211107163854.png|500]]
 
@@ -40,3 +40,19 @@
 ![[Uni Stuff/SPSS/Pasted image 20211110172936.png|500]]
 ### Data View
 ![[Uni Stuff/SPSS/Pasted image 20211110173734.png|500]]
+
+### [1/2/2021]
+# Descreptive Analysis
+The Descriptives menu lies under `Analyze` $\longrightarrow$ `Descriptive Statistics` $\longrightarrow$ `Descriptives...`
+
+![[Uni Stuff/SPSS/Pasted image 20211112132700.png|300]]
+
+![[Uni Stuff/SPSS/Pasted image 20211112133429.png|300]]
+*The descriptives popup window*
+
+Once the window is open, select the variables you want to perform the analysis on and click the arrow in the middle to move them to the variables side. 
+
+![[Uni Stuff/SPSS/Pasted image 20211112133752.png|300]]
+*The descriptives window after moving the variables*
+
+![[Uni Stuff/SPSS/Pasted image 20211112132604.png]]
