@@ -41,7 +41,7 @@
 ### Data View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211110173734.png|500]]
 
-### [1/2/2021]
+### [1/9/2021]
 # Descreptive Analysis
 The Descriptives menu lies under `Analyze` $\longrightarrow$ `Descriptive Statistics` $\longrightarrow$ `Descriptives...`
 
@@ -98,6 +98,20 @@ The `Boxplot` option is available in `Chart Builder` under `Gallery`
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112141915.png|300]]
 *Legacy Boxplot window*
 
-## Classwork 
+`Panel by` - Separates into different boxes based on variables in this option
+
+## Classwork 1
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112132604.png|500]]
 ### Output View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142144.png|500]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142421.png|500]]
+*95% Confidence interval plot *
+
+## Classwork 2
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142615.png|500]]
+### Boxplot Window
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142803.png|300]]
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142839.png|500]]
