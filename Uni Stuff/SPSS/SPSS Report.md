@@ -129,4 +129,13 @@ To split the file based on a variable, the variables must be in the `Group Based
 # Frequencies for Descriptive Statistics
 To display the descriptive statistics of a dataset in a vertical tabular form, an alternative method exists i.e. by using the `Frequencies...` dialogue. 
 
+The `Frequencies` window is under `Analyze`$\longrightarrow$`Descriptive Statistics`$\longrightarrow$`Frequencies...`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112220555.png|300]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112221233.png|300]]
+*Variable selector window*
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112222202.png|300]]
+*Stats selector window*
 
