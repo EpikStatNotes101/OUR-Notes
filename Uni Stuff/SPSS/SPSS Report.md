@@ -117,3 +117,16 @@ The `Boxplot` option is available in `Chart Builder` under `Gallery`
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112142839.png|500]]
 
 ### [8/9/2021]
+# Splitting Files into Groups
+To split the data w.r.t some variable, we use `Split File` under `Data`$\longrightarrow$`Split File...`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112214910.png|200]]
+
+To split the file based on a variable, the variables must be in the `Group Based on:` dialogue. 
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211112215038.png|300]]
+
+# Frequencies for Descriptive Statistics
+To display the descriptive statistics of a dataset in a vertical tabular form, an alternative method exists i.e. by using the `Frequencies...` dialogue. 
+
+
