@@ -1,3 +1,6 @@
+
+# $$\text{Safalya Pal}$$
+## $$\text{A90555919003}$$
 ### [27/8/2021]
 # Variable View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211107163854.png|500]]
@@ -180,4 +183,26 @@ To specify the cutpoint properties, use the `Make Cutpoint` options
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114144203.png|500]]
 
 # Normality Check 
-To check if the data is normal or not, the `Explore` option under `Analyze` 
+To check if the data is normal or not, the `Explore` option under `Analyze`$\longrightarrow$`Descriptive Statistics`$\longrightarrow$`Explore`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114150723.png|300]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114150919.png|300]]
+*Explore Window*
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114150958.png|300]]
+*Plot Selector Window*
+
+## Classwork 2 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114151145.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114151204.png|300]]
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114151237.png|300]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114151307.png|200]]        
+*If the significance value is greater than 0.05 then the data is normal.*
+
+# ANOVA
+To perform ANOVA on your data, use the `Linear Regression`
