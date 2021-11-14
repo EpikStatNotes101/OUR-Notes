@@ -233,4 +233,11 @@ To fit a linear regresion model to your data, use the `Linear Regression` dialog
 
 ### [20/9/2021]
 # Curve Fitting 
-To fit a curve to your data, 
+To fit a curve to your data, use the `Curve Estimate` window under `Analyze` $\longrightarrow$ `Regression` $\longrightarrow$ `Curve Estimate`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114192241.png|300]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114192309.png|300]]
+*Curve Estimate Window*
+
+`Models` - Specify the type of curve(s) to be fitted to the data
