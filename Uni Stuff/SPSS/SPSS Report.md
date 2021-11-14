@@ -204,5 +204,24 @@ To check if the data is normal or not, the `Explore` option under `Analyze`$\lon
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114151307.png|200]]        
 *If the significance value is greater than 0.05 then the data is normal.*
 
-# ANOVA
-To perform ANOVA on your data, use the `Linear Regression`
+### [16/9/2021]
+# Linear Regression
+To fit a linear regresion model to your data, use the `Linear Regression` dialogue under`Analyze` $\longrightarrow$ `Regression` $\longrightarrow$ `Linear`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114152601.png|300]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114152958.png|300]]
+*Linear Regression Window*
+
+## Classwork 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154127.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154200.png|500]]
+### Scatter Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154258.png|500]]
+*The coordinate with value of Y4 > 18 is an outlier. Hence we remove that coordinate*
+### Processed Data View 
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154355.png|500]]
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154423.png|500]]
