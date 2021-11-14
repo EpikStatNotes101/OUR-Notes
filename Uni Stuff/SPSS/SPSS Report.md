@@ -178,3 +178,6 @@ To specify the cutpoint properties, use the `Make Cutpoint` options
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114144047.png|300]]
 ### Output View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114144203.png|500]]
+
+# Normality Check 
+To check if the data is normal or not, the `Explore` option under `Analyze` 
