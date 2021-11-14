@@ -255,4 +255,18 @@ To fit a curve to your data, use the `Curve Estimate` window under `Analyze` $\l
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114202255.png|300]]
 
 ### [21/09/2021]
-To perform factor analysis on your data, use
+# Factor Analysis
+To perform factor analysis on your data, use `Factor...` under `Analyze` $\longrightarrow$ `Dimension Reduction` $\longrightarrow$ `Factor...`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114210936.png|300]]
+
+## Classwork 
+### Data View 
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114211746.png|500]]
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114211846.png|500]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114211904.png|500]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114211923.png|500]]
+
+### [22/09/2021]
+
