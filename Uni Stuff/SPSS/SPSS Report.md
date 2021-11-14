@@ -241,3 +241,11 @@ To fit a curve to your data, use the `Curve Estimate` window under `Analyze` $\l
 *Curve Estimate Window*
 
 `Models` - Specify the type of curve(s) to be fitted to the data
+
+## Classwork 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195052.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195112.png|500]]
+### Scatterplot Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195347.png|500]]
