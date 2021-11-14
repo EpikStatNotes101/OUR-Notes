@@ -255,3 +255,4 @@ To fit a curve to your data, use the `Curve Estimate` window under `Analyze` $\l
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114202255.png|300]]
 
 ### [21/09/2021]
+To perform factor analysis on your data, use
