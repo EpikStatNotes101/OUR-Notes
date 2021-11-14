@@ -247,5 +247,11 @@ To fit a curve to your data, use the `Curve Estimate` window under `Analyze` $\l
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195052.png|500]]
 ### Data View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195112.png|500]]
-### Scatterplot Output View
-![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195347.png|500]]
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114195347.png|300]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114202122.png|300]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114202144.png|300]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114202224.png|500]]
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114202255.png|300]]
+
+### [21/09/2021]
