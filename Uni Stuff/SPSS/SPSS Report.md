@@ -269,4 +269,20 @@ To perform factor analysis on your data, use `Factor...` under `Analyze` $\longr
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114211923.png|500]]
 
 ### [22/09/2021]
+# Date and Time
+To define a Date and Time column, use `Data` $\longrightarrow$ `Define Date and Time` 
 
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114213252.png|300]]
+*Deefine Data and Time window*
+
+## Classwork 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114213411.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114213443.png|300]]
+### Output View 
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114213514.png|500]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114213533.png|500]]
+
+*From the analysis, we see that Canada_price = -54.881 + 1.474(USA_price)*
