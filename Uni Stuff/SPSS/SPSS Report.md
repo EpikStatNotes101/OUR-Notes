@@ -1,6 +1,11 @@
 
 # $$\text{Safalya Pal}$$
-## $$\text{A90555919003}$$
+## $$\text{A90555919003  Sem-5}$$
+## $$\text{STAT305}$$
+
+***
+<br></br>
+<br></br>
 ### [27/8/2021]
 # Variable View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211107163854.png|500]]
@@ -225,3 +230,6 @@ To fit a linear regresion model to your data, use the `Linear Regression` dialog
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154355.png|500]]
 ### Output View
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211114154423.png|500]]
+
+### [20/9/2021]
+# Curve Fitting 
