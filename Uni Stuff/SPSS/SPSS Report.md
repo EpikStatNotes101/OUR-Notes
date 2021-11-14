@@ -139,3 +139,42 @@ The `Frequencies` window is under `Analyze`$\longrightarrow$`Descriptive Statist
 ![[Uni Stuff/SPSS/Imgs/Pasted image 20211112222202.png|300]]
 *Stats selector window*
 
+# Visual Binning 
+To create class intervals for continous data, we use the `Visual Binning` dialogue under `Transform`$\longrightarrow$`Visual Binning`
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114142838.png|200]]
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114142952.png|300]]
+*Variable Selector Window*
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143225.png|500]]
+*Visual Binning Window*
+
+To specify the cutpoint properties, use the `Make Cutpoint` options
+
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143127.png|500]]
+
+## Classwork 1 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143407.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143448.png|300]]
+### Post Binning Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143538.png|300]]
+
+## Classwork 2 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143637.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143657.png|300]]
+### Post Binning Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114143721.png|300]]
+
+### [10/9/2021]
+## Classwork 1 
+### Variable View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114144030.png|500]]
+### Data View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114144047.png|300]]
+### Output View
+![[Uni Stuff/SPSS/Imgs/Pasted image 20211114144203.png|500]]
