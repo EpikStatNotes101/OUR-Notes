@@ -233,3 +233,4 @@ To fit a linear regresion model to your data, use the `Linear Regression` dialog
 
 ### [20/9/2021]
 # Curve Fitting 
+To fit a curve to your data, 
