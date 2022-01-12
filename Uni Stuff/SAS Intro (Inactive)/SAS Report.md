@@ -68,7 +68,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119173924.png|500]]
+![[Pasted image 20211119173924.png|500]]
 
 EXPLANATION:
 
@@ -131,8 +131,8 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174054.png|500]]
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174104.png|500]]
+![[Pasted image 20211119174054.png|500]]
+![[Pasted image 20211119174104.png|500]]
 
 EXPLANATION:
 
@@ -202,7 +202,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174253.png|200]]
+![[Pasted image 20211119174253.png|200]]
 
 EXPLANATION:
 
@@ -251,8 +251,8 @@ run;
 ```
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174429.png|500]]
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174436.png|500]]
+![[Pasted image 20211119174429.png|500]]
+![[Pasted image 20211119174436.png|500]]
 
 EXPLANATION:
 
@@ -320,7 +320,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174537.png|200]]
+![[Pasted image 20211119174537.png|200]]
 
 EXPLANATION:
 
@@ -383,7 +383,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174801.png|200]]
+![[Pasted image 20211119174801.png|200]]
 
 EXPLANATION:
 
@@ -460,7 +460,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174859.png|200]]
+![[Pasted image 20211119174859.png|200]]
 
 EXPLANATION:
 
@@ -513,7 +513,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119174942.png|500]]
+![[Pasted image 20211119174942.png|500]]
 
 EXPLANATION:
 
@@ -552,7 +552,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175029.png|500]]
+![[Pasted image 20211119175029.png|500]]
 
 EXPLANATION:
 
@@ -711,13 +711,13 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175419.png|500]]
+![[Pasted image 20211119175419.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175425.png|500]]
+![[Pasted image 20211119175425.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175435.png|500]]
+![[Pasted image 20211119175435.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175442.png|500]]
+![[Pasted image 20211119175442.png|500]]
 
 EXPLANATION:
 
@@ -789,7 +789,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175640.png|300]]
+![[Pasted image 20211119175640.png|300]]
 
 EXPLANATION:
 
@@ -822,7 +822,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175804.png|300]]
+![[Pasted image 20211119175804.png|300]]
 
 EXPLANATION:
 
@@ -901,9 +901,9 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175917.png|500]]
+![[Pasted image 20211119175917.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119175924.png|500]]
+![[Pasted image 20211119175924.png|500]]
 
 EXPLANATION:
 
@@ -967,7 +967,7 @@ RUN;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119180113.png|500]]
+![[Pasted image 20211119180113.png|500]]
 
 EXPLANATION:
 
@@ -1036,7 +1036,7 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119180537.png|500]]
+![[Pasted image 20211119180537.png|500]]
 
 EXPLANATION:
 
@@ -1109,9 +1109,9 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119180643.png|500]]
+![[Pasted image 20211119180643.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119180704.png|500]]
+![[Pasted image 20211119180704.png|500]]
 
 EXPLANATION:
 
@@ -1178,7 +1178,7 @@ run;
 ```
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119180759.png|200]]
+![[Pasted image 20211119180759.png|200]]
 
 EXPLANATION:
 
@@ -1301,9 +1301,9 @@ run;
 
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181000.png|500]]
+![[Pasted image 20211119181000.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181007.png|500]]
+![[Pasted image 20211119181007.png|500]]
 
 EXPLANATION:
 
@@ -1375,7 +1375,7 @@ run;
 ```
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181118.png|500]]
+![[Pasted image 20211119181118.png|500]]
 
 EXPLANATION:
 
@@ -1431,9 +1431,9 @@ run;
 ```
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181255.png|500]]
+![[Pasted image 20211119181255.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181300.png|500]]
+![[Pasted image 20211119181300.png|500]]
 
 EXPLANATION:
 
@@ -1501,9 +1501,9 @@ run;
 ```
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181405.png|500]]
+![[Pasted image 20211119181405.png|500]]
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181411.png|500]]
+![[Pasted image 20211119181411.png|500]]
 
 EXPLANATION:
 
@@ -1567,7 +1567,7 @@ run;
 ```
 OUTPUT:
 
-![[Uni Stuff/SAS Intro/Imgs/Pasted image 20211119181440.png|500]]
+![[Pasted image 20211119181440.png|500]]
 
 EXPLANATION:
 
