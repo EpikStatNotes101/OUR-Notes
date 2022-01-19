@@ -1,0 +1,1 @@
+$$\underset{x\longrightarrow 0}{\lim} \frac{\sin{x}}{x}=\underset{x\longrightarrow 0}{\lim} \frac{\tan{x}}{x}$$ 
