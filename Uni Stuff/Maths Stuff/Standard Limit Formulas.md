@@ -10,3 +10,16 @@
 - $$ \underset{x\longrightarrow \infty}{\lim} \left(1+a/x\right)^{x}=e^a$$
 
 --- 
+- $$ \underset{x\longrightarrow 0}{\lim} \frac{e^{x}-1}{x}=1$$
+- $$ \underset{x\longrightarrow 0}{\lim} \frac{a^{x}-1}{x}=\ln{a} \;\;; a>0$$
+
+---
+- $$ \underset{x\longrightarrow 0}{\lim} \frac{\ln{(1+x)}}{x}=1$$
+
+--- 
+- $$ \underset{x\longrightarrow 0}{\lim} \frac{x^n-a^n}{x-a}=na^{n-1}$$
+---
+
+_If $f(x)\longrightarrow 0$ when $x \longrightarrow a$ then :_
+
+- $$ \underset{x\longrightarrow a}{\lim} \frac{\sin{f(x)}}{f(x)}=1$$
