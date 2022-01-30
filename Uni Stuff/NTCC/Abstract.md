@@ -1,1 +1,1 @@
-Consistently throught the days, Domestic Violence has been linked to degradading physical and mental health and unpleasant social outcomes. Past studies have 
+Consistently throught the days, Domestic Violence has been linked to degradading physical and mental health and unpleasant social outcomes. Past studies have shown significant empirical evidence on the factors affecting Domestic Violence. 
