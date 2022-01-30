@@ -1,0 +1,1 @@
+Consistently throught the days, Domestic Violence has been linked to degradading physical and mental health and unpleasant social outcomes. Past studies have 
