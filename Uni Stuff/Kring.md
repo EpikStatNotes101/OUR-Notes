@@ -1,0 +1,1 @@
+Shei bhor 6tar shomoy shurjo jokhun matro nijer mukh dekha dicchilo, 
