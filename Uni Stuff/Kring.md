@@ -1,1 +1,1 @@
-Shei bhor 6tar shomoy shurjo jokhun matro nijer mukh dekha dicchilo, 
+Shei bhor 6tar shomoy shurjo jokhun matro nijer mukh ber korchilo, tumi boshe chile shei jheel er pashe haath ay ekta iPhone . Shei jhiler opor shurjor alo pore ch  
