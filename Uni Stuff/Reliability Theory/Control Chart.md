@@ -1,0 +1,1 @@
+Reliability can be expressed mathametically, we can consider it to be an exponentially decyaing function. 
