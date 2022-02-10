@@ -14,7 +14,7 @@ Keywords : Education disparity, Income disparity, Domestic Violence, India, Wome
 ## Introduction 
 Domestic Violence (DV) is a major problem in the modern society. More than a third of women worldride have experienced some form of physical or sexual violence at least once in their lifetime. Studies show that violence against women has severe mental and physical health consequences$^\text{ [ 1 ], [ 2 ], [ 3 ] }$. DV could lead to a lot of psychological disorders such as depression, sleeping disorders and eating disorders. It also increases the risk of committing homocide or suicide. DV also correlates with an increased rate of infant and child mortality and morbidity. 
 
-Though there is substantial emperical evidence on factors determining the likelihood of a woman experiencing DV, very little attention has been paid to the potential role of state level income disparity and education disparity as determinant$^\text{ [ 4 ], [ 5 ], [ 6 ] }$. The objective of this study is to fill in the gaps in literature by investigating the relationship between DV and income and education disparity in context of India, where the prevalance of DV is high and . 
+Though there is substantial emperical evidence on factors determining the likelihood of a woman experiencing DV, very little attention has been paid to the potential role of state level income disparity and education disparity as determinants$^\text{ [ 4 ], [ 5 ], [ 6 ] }$. The objective of this study is to fill in the gaps in literature by investigating the relationship between DV and income and education disparity in context of India, where the prevalance of DV is high and both income disparity and education disparity are substantial. 
 
 ## Research Methodology 
 ### Dataset Description 
