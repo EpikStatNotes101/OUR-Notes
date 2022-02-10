@@ -4,11 +4,12 @@
 \[ 2 ] - Kramer, A., Lorenzon, D., & Mueller, G. (2004). Prevalence of intimate partner violence and health implications for women using emergency departments and primary care clinics. *Women's Health Issues,*
 14(1), 19-29.
 
-\[ 3 ] - Sutherland, C., Bybee, D., & Sullivan, C. (1997). The long-term effects of battering on women's health. *Women's health (Hillsdale, NJ), *
+\[ 3 ] - Sutherland, C., Bybee, D., & Sullivan, C. (1997). The long-term effects of battering on women's health. *Women's health (Hillsdale, NJ),*
 4(1), 41-70. 
 
-\[ 4 ] - Bonnes, Stephanie (2016), Education and Income Imbalances Among Married Couples in Malawi as Predictors for Likelihood of Physical and Emotional Intimate Partner Violence. *Violence and Victims (Springer Publishing Company),*
+\[ 4 ] - Bonnes, Stephanie. (2016). Education and Income Imbalances Among Married Couples in Malawi as Predictors for Likelihood of Physical and Emotional Intimate Partner Violence. *Violence and Victims (Springer Publishing Company),*
 31(1), 51-70.
 	
-\[ 5 ] - Rapp, D., Zoch, B., Khan, M.M.H. et al. Association between gap in spousal education and domestic violence in India and Bangladesh. *BMC Public Health,*
-12(1),467
+\[ 5 ] - Rapp, D., Zoch, B., Khan, M.M.H. et al. (2012). Association between gap in spousal education and domestic violence in India and Bangladesh. *BMC Public Health,*
+12(1),467.
+
