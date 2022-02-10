@@ -12,7 +12,7 @@ Consistently throughout the days, Domestic Violence (DV) has been linked to degr
 Keywords : Education disparity, Income disparity, Domestic Violence, India, Women
 
 ## Introduction 
-Domestic Violence (DV) is a major problem in the modern society. More than a third of women worldride have experienced some form of physical or sexual violence at least once in their lifetime. Studies show that violence against women has severe mental and physical health consequences. DV could lead to a lot of psychological disorders such as depression, sleeping disorders and eating disorders. It also increases the risk of committing homocide or suicide. DV also correlates with an increased rate of infant and child mortality and morbidity. 
+Domestic Violence (DV) is a major problem in the modern society. More than a third of women worldride have experienced some form of physical or sexual violence at least once in their lifetime. Studies show that violence against women has severe mental and physical health consequences$^$. DV could lead to a lot of psychological disorders such as depression, sleeping disorders and eating disorders. It also increases the risk of committing homocide or suicide. DV also correlates with an increased rate of infant and child mortality and morbidity. 
 
 Though there is substantial emperical evidence on the factors which determine the likelihood of a woman experiencing DV, very little attention has been paid to the role of household income as determinant. The objective of this study is to investigate the relationship between economic status of the household of a woman and the risk of being a victim of DV. 
 
