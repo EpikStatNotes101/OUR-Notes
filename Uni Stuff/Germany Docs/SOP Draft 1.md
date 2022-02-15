@@ -6,5 +6,9 @@ Being a tailored curriculum for bachelor's degree in Statistics, subjects like *
 
 **\<PROFESSOR'S RESEARCH AND WHY I'M INTERESTED>**
 **\<MY INTEREST IN THE UNIVERSITY CURRICULUM>**
+**\<STATE THAT YOU HAD GERMAN IN YOUR CURRICULUM AND HOW IT WOULD HELP>**
 
-In view of the foregoing, I firmly believe that **\<YOUR UNIVERSITY>** will be an ideal place for me to pursue a Master's Programme to accomplish my dream as it offers academic excellence, esteemed and competent teaching faculty and an intensive 	curriculum. It will also guide my career as a research professional at an academic and research oriented organization.  
+In view of the foregoing, I firmly believe that **\<YOUR UNIVERSITY>** will be an ideal place for me to pursue a Master's Programme to accomplish my dream as it offers academic excellence, esteemed and competent teaching faculty and an intensive 	curriculum. It will also guide my career as a research professional at an academic and research oriented organization. I would be delighted if I am considered and given an opportunity to be a student at your University. I look forward to a **Master's study in Data Science** at your university to strengthen my knowledge and expertise in the areas of my interests 
+
+Thanking you, 
+Safalya Pal
