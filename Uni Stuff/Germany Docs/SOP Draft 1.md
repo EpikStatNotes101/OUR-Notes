@@ -4,5 +4,7 @@ We are living in the era of **Industrial Revolution 4.0**,  where breakthroughs 
 
 Being a tailored curriculum for bachelor's degree in Statistics, subjects like **fundamental of statistics, probability theory, sampling theory, linear models, statistical inference, non-parametric statistics, time series analysis, linear algebra, real analysis, numerical analysis, C programming and R programming** were also included to build a strong foundation in statistics, mathametics and machine learning. I have also worked on various projects that enhance my analytical and technical skills. For instance, I have created a **Shared Auto-Encoded Feature Representation for Image-to-Image Translation** and worked on **Exploring the Effect of Income an Education Disparity on Domestic Violence against Women : A Case Study from India**, using Machine Learning and Statistical methods. As a part of my final year thesis, I've been working on **Region-wise analysis of severity of COVID-19 infection in India**. **During my undergraduate study, I successfully completed an Internship** at **Ministry of Micro, Small, and Medium Enterprises under Government of India**, to understand the real-life operation of an industry. I have also undergone **several online courses** and took part in **several webinars** in the domain of **Machine Learning, Data Science, Artificial Intelligence and Computer Vision.**
 
-\<PROFESSOR'S RESEARC>
-\<My reasons and interest in the university curriculum modules> 
+**\<PROFESSOR'S RESEARCH AND WHY I'M INTERESTED>**
+**\<MY INTEREST IN THE UNIVERSITY CURRICULUM>**
+
+In view of the foregoing, I firmly believe that **\<YOUR UNIVERSITY>** will be an ideal place for me to pursue a Master's Programme to accomplish my dream as it offers academic excellence, esteemed and competent teaching faculty and an intensive 	curriculum. It will also guide my career as a research professional at an academic and research oriented organization.  
