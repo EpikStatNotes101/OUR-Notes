@@ -18,3 +18,20 @@ Attempts to ensure the quality of the finished product delivered to the consumer
 
 #### Tools for Product Control
 - Sampling Inspection Plan ( SIP ) ( F.G. Doge & F.H. Romig )
+
+## Classification of Quality
+**According to Method of Inspection:**
+
+(A) Attributes
+(B) Count of non-conformities
+(C) Variables
+
+**Examples :**
+### Attributes
+A finished TV picture tube classified as functioning / non-functioning 
+
+### Count of non-conformities
+Number of spots on a paper roll
+
+### Variables 
+Diameter of a finished bowl
