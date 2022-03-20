@@ -11,6 +11,6 @@ Sample according to population ratios.
 
 Denote state risks by : High Risk $H$, Intermediate Risk $M$, Low Risk $L$
 
-Suppose we have states in every categories as follows :
-
+> **ANOVA for time series data**
+> http://rcompanion.org/handbook/I_09.html
 
