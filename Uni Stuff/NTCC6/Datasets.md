@@ -12,3 +12,5 @@
 # Social and Demographic Indicators 
 - https://m.rbi.org.in/scripts/AnnualPublications.aspx?head=Handbook+of+Statistics+on+Indian+States
 	- Population, Sex Ratio, Literacy Rate, Population Density, GDP, etc. 
+- https://www.niti.gov.in/social-sector-indices
+	- Health and other social indices 
