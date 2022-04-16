@@ -8,3 +8,7 @@
 # Lockdown Dates :
 - https://www.ciicovid19update.in/state-govt-notifications.html#n33 
 	- (raw circulars from state governments)
+
+# Social and Demographic Indicators 
+- https://m.rbi.org.in/scripts/AnnualPublications.aspx?head=Handbook+of+Statistics+on+Indian+States
+	- Population, Sex Ratio, Literacy Rate, Population Density, GDP, etc. 
