@@ -9,4 +9,4 @@ A nonempty set of vectors $V$ is a subspace if it satisfies the following for al
 | inverse        | $\mathbf{u+(-u)}= \mathbf{0}$                              | -                                            |
 | closure        | $\mathbf{u+v}\in V$                                        | $c\mathbf{u}\in V$                           |
 
-A subset $H \subset V$ 
+A set $H \subset V$ is a subspace if 
