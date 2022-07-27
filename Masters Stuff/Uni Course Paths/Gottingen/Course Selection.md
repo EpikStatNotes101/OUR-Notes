@@ -1,3 +1,4 @@
+# Course Selection
 ## I. Master's Programme
 ### 1. Core
 #### a. Fundamentals of Data Science (38 C)
@@ -15,4 +16,15 @@
 
 ### Elective courses Medical Data Science
 - M.MED.0004: Clinical Trials
+
+
+# Timeline
+| Sem 1 (WS 2022) | Sem 2 (SS 2023) | Sem 3 (WS 2023) | Sem 4 (SS 2024) | Sem 5(WS 2024) |
+| --------------- | --------------- | --------------- | --------------- | -------------- |
+|                 |                 |                 |                 |                |
+
+
+
+
+
 
