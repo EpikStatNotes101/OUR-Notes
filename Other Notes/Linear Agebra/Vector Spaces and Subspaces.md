@@ -22,6 +22,8 @@ For a $m\times n$ matrix $A$, the null space is the set of vectors which satisfi
 
 $\text{Nul }A=\{\mathbf{x:x} \in \mathbb{R}^n \text{ and } A\mathbf{x=0}\}$ 
 
+# Column Space
+For a $m\times n$ matrix $A$, the null space is the set of all possible linear combinations of the columns of $A$. That is if $A = \left[\mathbf{a_1 \text{ ... } a_n}\right]$ 
 
 
 
