@@ -1,0 +1,1 @@
+$$\int_{-\infty}^{10} sin(\exp{x})dx =$$ I am not sure how to proceed with this integral. Any help is appreciated. A: $\int_{-\infty}^{10} \sin(\exp{x})dx = \int_{-\infty}^{10} \sin(\exp{\ln(e^x)})dx = \int_{-\infty}^{10} \sin(x)dx = -\cos(10)$
